@@ -1,6 +1,6 @@
 # DrinkWater
 DrinkWaterReminder
-Uygulama Kimlik doğrulama için firebase teknolojisini kullanıyor. Sağlıklı bir insanın her saat başı 200 ml yani bir su bardağı su tüketmesi gerekiyor. Uygulama insanlara bunu hatırlatmak amacıyla yapılmıştır. Büyük ölçekli My Friend uygulamamın küçük bir parçasıdır. 
+Uygulama Kimlik doğrulama için firebase teknolojisini kullanıyor. Sağlıklı bir insanın her saat başı 200 ml yani bir su bardağı su tüketmesi gerekiyor. Uygulama insanlara bunu hatırlatmak amacıyla yapılmıştır. Elmas Koyuncu manevi sponsorluğunda yürüttüğümüz üyük ölçekli My Friend uygulamasının küçük bir parçasıdır. 
 
 
 
